@@ -1,4 +1,4 @@
-import { Logo } from "components/logo";
+import { Logo } from "components/Logo";
 import s from "./style.module.css";
 import logo from "assets/images/logo.png";
 import { ButtonPrimary } from "components/ButtonPrimary/ButtonPrimary";
